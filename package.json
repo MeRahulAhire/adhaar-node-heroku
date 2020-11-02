@@ -1,0 +1,21 @@
+{
+  "name": "adhaar-qrcode-form-filling",
+  "version": "1.0.0",
+  "description": "filling form automatically by scanning qrcode of adhaar card",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Ahire",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "xml2js": "^0.4.23"
+  },
+  {
+    "engines": {
+      "node": 14.15.0
+    }
+  }
+}
